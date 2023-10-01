@@ -5,6 +5,7 @@ class fibonacci{
         Scanner sc=new Scanner(System.in);
         System.out.println("enter a number");
         int n=sc.nextInt();
+        sc.close();
         int a=0;
         int b=1;
         int c;

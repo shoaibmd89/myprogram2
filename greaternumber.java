@@ -9,6 +9,7 @@ public class greaternumber {
          int b=s.nextInt();
          System.out.println("enter third number");
          int c=s.nextInt();
+         s.close();
          if(a>b&&a>c)
          {
             System.out.println(a + "is greater number");
