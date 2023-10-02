@@ -1,5 +1,5 @@
 package myprogram2;
-import java.util.Scanner;
+import java.util.Scanner;//this is a fibonacci program 
 class fibonacci{
 	public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
