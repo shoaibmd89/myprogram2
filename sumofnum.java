@@ -11,7 +11,8 @@ public class sumofnum {
         for(int i=0;i<arr.length;i++){
             arr[i]=sc.nextInt();
            // System.out.print(" ");
-        }System.out.print(" ");
+        }
+        
           System.out.println("enter the valve of");
         int x=sc.nextInt();
         sc.close();
